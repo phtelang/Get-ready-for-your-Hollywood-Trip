@@ -1,0 +1,11 @@
+requests
+seaborn
+matplotlib
+plotly
+BeautifulSoup
+ipython
+pandas
+numpy
+scikit-learn
+wordcloud
+vaderSentiment
